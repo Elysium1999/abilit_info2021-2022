@@ -12,7 +12,7 @@
 	print("\nhelp(a)\n")
 	help(a)
 
-	b = str("Fortran90 è il miglior linguaggio di programmazione mai creato")
+	b = str("Così continuiamo a remare, barche contro corrente, risospinti senza posa nel passato.")
 
 	print("\ntype(b)\n")
 	type(b)
